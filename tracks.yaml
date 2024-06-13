@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/graph_msgs-release.git
 tracks:
   foxy:
     actions:
