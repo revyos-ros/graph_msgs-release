@@ -1,3 +1,26 @@
+## graph_msgs (jazzy) - 0.2.0-7
+
+The packages in the `graph_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy graph_msgs --override-release-repository-push-url git@github.com:revyos-ros/graph_msgs-release.git` on `Thu, 13 Jun 2024 05:10:03 -0000`
+
+The `graph_msgs` package was released.
+
+Version of package(s) in repository `graph_msgs`:
+
+- upstream repository: https://github.com/PickNikRobotics/graph_msgs.git
+- release repository: https://github.com/revyos-ros/graph_msgs-release.git
+- rosdistro version: `0.2.0-6`
+- old version: `0.2.0-6`
+- new version: `0.2.0-7`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## graph_msgs (rolling) - 0.2.0-1
 
 The packages in the `graph_msgs` repository were released into the `rolling` distro by running `/home/jafar/.local/bin/bloom-release graph_msgs -t rolling -r rolling --edit` on `Tue, 14 Sep 2021 14:47:59 -0000`
